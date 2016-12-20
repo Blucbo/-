@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Seller.cpp
+  SalesOperation.cpp
+  List.cpp
+  laba5.cpp
+  Date.cpp
+  Book.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка D:\Downloads\lab05\laba5\Debug\laba5.exe при последней инкрементной компоновке; выполняется полная компоновка
+  laba5.vcxproj -> D:\Downloads\lab05\laba5\Debug\laba5.exe
+  laba5.vcxproj -> D:\Downloads\lab05\laba5\Debug\laba5.pdb (Full PDB)
